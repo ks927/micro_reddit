@@ -1,6 +1,6 @@
 # README
 
-This is a practice application in setting up the validations of and associations between User -> Post -> Comments. 
+This is a practice application in setting up the validations of and associations between User -> Post -> Comment models. 
 
 The only fleshed out parts of the app are the Model and database.
 
